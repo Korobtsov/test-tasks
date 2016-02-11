@@ -6,7 +6,7 @@ import org.openqa.selenium.*;
 import tasks.logicPartition.Pages.*;
 import tasks.logicPartition.Settings.FireFoxSettings;
 
-public class AssertingEveryTrhirdINN_Test extends FireFoxSettings {
+public class AssertingEveryThirdINN_Test extends FireFoxSettings {
 		
 	private String searchFieldInput = "A";
 		
